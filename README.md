@@ -1,7 +1,7 @@
 # tradebrains
 
 A new Flutter application.
-- [DOWNLOAD: Flutter app](https://drive.google.com/file/d/1aOeZeDt0_TyfLwGBPMszFdU1Ysl7sT8j/view?usp=sharing)
+- [DOWNLOAD: tradeBrain app](https://drive.google.com/drive/folders/1GQuS55N1On5AW3klPn_vJXOS_vP_0ioO?usp=sharing)
 
 ## Getting Started
 
